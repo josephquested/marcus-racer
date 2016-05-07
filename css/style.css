@@ -1,0 +1,16 @@
+/* Version 1 styles */
+
+.racetrack td {
+	background-color: white;
+	border: 1px solid black;
+	height: 20px;
+	width: 20px;
+}
+
+#racer_1 td.active1 {
+	background-color: orange;
+}
+
+#racer_2 td.active2 {
+	background-color: green;
+}
